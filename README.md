@@ -14,7 +14,7 @@
 
 - 💬 Ask me about Html. CSS, Javascript **HtML, CSS, Javascript,C**
 
-- 📫 How to reach me **turningpointcodes@gmail.com,https://www.linkedin.com/in/obi-anthony-440a1430/,https://twitter.com/megagigsolution,**
+- 📫 How to reach me **turningpointcodes@gmail.com,**
 
 - ⚡ Fun fact **I am fun to work with**
 
