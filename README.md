@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/megagigsolution" target="blank"><img src="https://img.shields.io/twitter/follow/megagigsolution?logo=twitter&style=for-the-badge" alt="megagigsolution" /></a> </p>
 
-- 🌱 I’m currently learning  **python,React, Angular, Vue**
+- 🌱 I’m currently learning  **React, Nextjs,Nodejs, Express**
+- 📫 Checkout my portfolio here - [www.megagigdev.com](www.megagigdev.com)
 
 - 📝 I regularly write articles on [www.megagigsoftwaresolutions.com](www.megagigsoftwaresolutions.com)
 
