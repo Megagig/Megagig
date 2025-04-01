@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [www.megagigsoftwaresolutions.com](www.megagigsoftwaresolutions.com)
 
-- 💬 Ask me about Html. CSS, Javascript **HTML, CSS, Javascript, React, Node.js, Express**
+- 💬 Ask me about HTML. CSS, JavaScript **HTML, CSS, JavaScript, React, Node.js, Express**
 
 - 📫 How to reach me **turningpointcodes@gmail.com,**
 
